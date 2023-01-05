@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog on nano-blog</title>
+        <link>https://blog.nanomeow.icu/categories/blog/</link>
+        <description>Recent content in Blog on nano-blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Thu, 05 Jan 2023 17:08:51 +0800</lastBuildDate><atom:link href="https://blog.nanomeow.icu/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>网站折腾记录～</title>
+        <link>https://blog.nanomeow.icu/p/build-log/</link>
+        <pubDate>Thu, 05 Jan 2023 17:08:51 +0800</pubDate>
+        
+        <guid>https://blog.nanomeow.icu/p/build-log/</guid>
+        <description>&lt;img src="https://blog.nanomeow.icu/img/post/build-log/cover.jpg" alt="Featured image of post 网站折腾记录～" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
