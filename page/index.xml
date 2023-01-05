@@ -37,7 +37,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://blog.nanomeow.icu/links/</guid>
-        <description>&lt;h1 id=&#34;本站信息&#34;&gt;本站信息&lt;/h1&gt;
+        <description>&lt;h2 id=&#34;本站信息&#34;&gt;本站信息📄&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -54,7 +54,20 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#FADBD8&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;&lt;h2 id=&#34;申请友链&#34;&gt;申请友链🔗&lt;/h2&gt;
+&lt;p&gt;请按以下格式在本页面评论～&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;站点名：xxxxx&lt;/p&gt;
+&lt;p&gt;简介：xxxxxxx&lt;/p&gt;
+&lt;p&gt;链接: https://xxxx&lt;/p&gt;
+&lt;p&gt;头像链接: https://xxxxxxx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;注意事项&#34;&gt;注意事项&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;站点可以正常访问&lt;/li&gt;
+&lt;li&gt;头像正常加载&lt;/li&gt;
+&lt;/ul&gt;
+</description>
         </item>
         
     </channel>
